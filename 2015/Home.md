@@ -81,6 +81,7 @@ with the ability to communicate with MongooseIM using EXI.
 * **Student:** Piotr Ociepka
 * **Mentor:** Michał Piotrowski
 
+Source code: [https://github.com/pkociepka/eXI](https://github.com/pkociepka/eXI)
 
 ## Participating OSS projects
 
